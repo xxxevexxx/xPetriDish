@@ -49,3 +49,33 @@ https://github.com/user-attachments/assets/0f46df40-8c09-4dc7-8f1e-e7a13dfb5bd1
 > [2] - Дает понимание того на сколько шаров еще сможешь разделиться \
 > [3] - Возможность съесть вирус и не взорваться на нем 
 
+<p align="center">
+ <h2 align="center">xPetriDish MegaSplit USE</h2>
+</p>
+
+![image](https://github.com/user-attachments/assets/f83642ca-7d3f-4e25-a8f0-ce33651deb9e)
+
+# Базовый прогиб
+
+> [!NOTE]\
+> **Почему и как это работает?**
+> 
+
+https://github.com/user-attachments/assets/8f39ad5f-9881-4fd6-b526-fbc25dfb8f54
+
+# Боковой прогиб
+
+> [!NOTE]\
+> **Почему и как это работает?**
+> 
+
+https://github.com/user-attachments/assets/cf459e7e-b6b7-47de-9a43-c172a27190bd
+
+# Обратный прогиб
+
+> [!NOTE]\
+> **Почему и как это работает?**
+> 
+
+https://github.com/user-attachments/assets/81da4c2c-fd79-4432-a4bf-ccadf0519a6d
+
