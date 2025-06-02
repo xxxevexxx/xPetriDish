@@ -95,3 +95,11 @@ https://github.com/user-attachments/assets/3bf7d46f-8304-479b-abcc-f531ca3c904d
 
 https://github.com/user-attachments/assets/98de2d59-ce6c-4f96-9e30-0821cfd2a300
 
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+>
+
+https://github.com/user-attachments/assets/f4615945-78ce-4034-824e-df4ca33f3167
+
