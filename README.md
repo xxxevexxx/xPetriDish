@@ -1,7 +1,8 @@
 <p align="center">
- <img width="100px" src="https://skins9cached.petridish.info/engine/serverskins/466159.png" align="center" alt="GitHub Readme xPetriDish" />
  <h2 align="center">xPetriDish MegaSplit FAQ</h2>
 </p>
+
+![image](https://github.com/user-attachments/assets/befd0516-c086-487f-a8df-fe72cdff3f75)
 
 # Индексы шаров
 > Это число обозначающее какое место шар занимает в списке шаров.
