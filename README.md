@@ -110,3 +110,10 @@ https://github.com/user-attachments/assets/f4615945-78ce-4034-824e-df4ca33f3167
 
 https://github.com/user-attachments/assets/6407d31f-6077-443b-b75e-a66d1ec5fcfb
 
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+
+https://github.com/user-attachments/assets/fa5d5c5c-e46c-4f30-b544-5b0d0246e778
+
