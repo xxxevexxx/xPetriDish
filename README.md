@@ -79,3 +79,19 @@ https://github.com/user-attachments/assets/cf459e7e-b6b7-47de-9a43-c172a27190bd
 
 https://github.com/user-attachments/assets/81da4c2c-fd79-4432-a4bf-ccadf0519a6d
 
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+> 
+
+https://github.com/user-attachments/assets/3bf7d46f-8304-479b-abcc-f531ca3c904d
+
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+> 
+
+https://github.com/user-attachments/assets/98de2d59-ce6c-4f96-9e30-0821cfd2a300
+
