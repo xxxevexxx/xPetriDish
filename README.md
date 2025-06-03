@@ -117,3 +117,24 @@ https://github.com/user-attachments/assets/6407d31f-6077-443b-b75e-a66d1ec5fcfb
 
 https://github.com/user-attachments/assets/fa5d5c5c-e46c-4f30-b544-5b0d0246e778
 
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+
+https://github.com/user-attachments/assets/850d710d-62b7-4470-9fc9-d2e3a0b87ca9
+
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+
+https://github.com/user-attachments/assets/e6f1622f-45ff-41b3-aee5-80d8d8c68ee4
+
+# Нет названия
+
+> [!NOTE]\
+> **Почему и как это работает?**
+
+https://github.com/user-attachments/assets/b1d0686f-88e1-4ec9-b542-6359a01c7a5c
+
